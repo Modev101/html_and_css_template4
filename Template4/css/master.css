@@ -1274,12 +1274,14 @@ textarea:hover{
 
 .friends-page .contact i {
   background-color: #eee;
-  padding: 10px;
   border-radius: 50%;
   color: #666;
   font-size: 13px;
   cursor: pointer;
   transition: 0.3s;
+  width: 35px;
+  height: 35px;
+  line-height: 35px;
 }
 
 .friends-page .contact i:hover {
